@@ -1,6 +1,6 @@
 # Travel Booking System (Student Copy)
 
-travel_booking_system|
+travel_booking_system/
 
 │── main.py         # Entry point (menu-driven system)
 
@@ -42,6 +42,7 @@ The system should maintain customer records and booking details.
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
 
