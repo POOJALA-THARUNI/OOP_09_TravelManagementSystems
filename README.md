@@ -1,4 +1,5 @@
-# Travel Booking System (Student Copy)
+# Travel Booking System(Mini Project)
+# Project Structure
 
 travel_booking_system/
 
@@ -42,6 +43,7 @@ The system should maintain customer records and booking details.
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
 
