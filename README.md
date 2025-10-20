@@ -21,6 +21,7 @@ travel_booking_system|
 
 ## Problem Statement
 Design a **Travel Agency System** where customers can make bookings for trips. 
+
 The system should maintain customer records and booking details.
 
 ## Topics Covered
@@ -41,6 +42,7 @@ The system should maintain customer records and booking details.
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
 
