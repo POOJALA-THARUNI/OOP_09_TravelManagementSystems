@@ -1,4 +1,6 @@
 # Travel Management System(Mini Project)
+The **Travel Management System** is a Python-based software application developed as a mini project to demonstrate the use of **Object-Oriented Programming (OOP)**.
+It provides an efficient way to manage travel bookings, maintain customer records, and generate detailed reports, making the entire process faster and more organized.
 
 ## Problem Statement
 Design a **Travel Agency System** where customers can make bookings for trips. 
@@ -49,6 +51,7 @@ travel_booking_system/
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
 
