@@ -1,13 +1,21 @@
 # Travel Booking System (Student Copy)
 
 travel_booking_system|
+
 │── main.py         # Entry point (menu-driven system)
+
 │── customer.py     # Customer class
+
 │── booking.py      # Booking class
+
 │── travel_agency.py# Main system (manages customers + bookings)
+
 │── report.py       # Report generation
+
 │── exceptions.py   # Custom exceptions
+
 │── utils.py        # Helper utilities (ID generator, validation)
+
 │── README.md       # Instructions for students
 
 
@@ -33,5 +41,6 @@ System should maintain customer records and booking details.
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
