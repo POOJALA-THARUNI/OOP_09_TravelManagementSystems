@@ -1,4 +1,4 @@
-# Travel Booking System(Mini Project)
+# Travel Management System(Mini Project)
 
 ## Problem Statement
 Design a **Travel Agency System** where customers can make bookings for trips. 
@@ -49,6 +49,7 @@ travel_booking_system/
 - Student A: Customer class + linking bookings
 - Student B: Booking class + booking creation
 - Student C: TravelAgency class + reports + menu integration
+
 
 
 
